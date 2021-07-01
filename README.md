@@ -5,7 +5,7 @@
 </p>
 
 # Frontend Devtools
-### Controlled and customizable platform for Frontend developer's repetitive tasks
+### Controlled and Customizable platform for Frontend developer's repetitive tasks
 
 Frontend Devtools dashboard is made up of truly customizable cards which consists package size details, package comparison, font preview, code diff, base64 encode decode, JS, TS, CSS, SVG optimization and many more awesome modules.
 
