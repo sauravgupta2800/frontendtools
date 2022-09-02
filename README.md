@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://frontendtools.dev">
-    <img src="https://www.frontendtools.dev/android-chrome-512x512.png" width="180" height="180">
+  <a href="https://frontend-toolkit-f93tktkhq-sauravgupta2800.vercel.app">
+    <img src="https://frontend-toolkit-f93tktkhq-sauravgupta2800.vercel.app/android-chrome-512x512.png" width="180" height="180">
   </a>
 </p>
 
